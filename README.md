@@ -10,5 +10,7 @@ The application MUST implement Bootstrap features.
 
 ## Stretch Goals
 [ ] - Names 'animate' as they appear on the DOM, (Hard Mode)
+
 [ ] - Add another feature that allows you to pick team size (instead of number of teams), (Very Hard Mode)
+
 [ ] - Add the ability to move individual members from team to team. This will mean that you will not be able to save the collection when the team is created, but rather include a 'confirm' button that locks in the team. (Pro Mode)
